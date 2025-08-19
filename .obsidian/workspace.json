@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "cjgrayson/2025-02-19.md",
+                "file": "Chris' Vault/1 - Fleeting Notes/2025-02-19.md",
                 "mode": "source",
                 "source": false
               },
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "cjgrayson/2025-02-19.md",
+                "file": "Chris' Vault/1 - Fleeting Notes/2025-02-19.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "cjgrayson/2025-02-19.md",
+                "file": "Chris' Vault/1 - Fleeting Notes/2025-02-19.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -142,7 +142,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "cjgrayson/2025-02-19.md",
+                "file": "Chris' Vault/1 - Fleeting Notes/2025-02-19.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -178,9 +178,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "f7bc67381944b3a4",
+  "active": "85de1356a1a20039",
   "lastOpenFiles": [
-    "README.md",
+    "cjgrayson/README 1.md",
+    "Chris' Vault/1 - Fleeting Notes/2025-02-19.md",
     "cjgrayson/README.md",
     "cjgrayson/test note.md",
     "index.html",
