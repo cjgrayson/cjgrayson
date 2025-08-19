@@ -1,0 +1,256 @@
+{
+  "main": {
+    "id": "609f5d42d88463bc",
+    "type": "split",
+    "children": [
+      {
+        "id": "07253a0a9068322e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "752b93891c7d2d94",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "02 - Literature Notes/The Triage System.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "The Triage System"
+            }
+          },
+          {
+            "id": "3bbb6ccb7006dd40",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.8.9"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.8.9"
+            }
+          },
+          {
+            "id": "5f32d4dbcbacb31b",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.8.10"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.8.10"
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "ea3ae5cd158e2cdc",
+    "type": "split",
+    "children": [
+      {
+        "id": "901839c723cae8ab",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ae7e230fa4d17618",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "978c7eecc33beee9",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "c9656f1b2c1984cf",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          },
+          {
+            "id": "17c429c9b92b5211",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
+              "state": {},
+              "icon": "clock",
+              "title": "Recent Files"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "87ed6d3206f80d44",
+    "type": "split",
+    "children": [
+      {
+        "id": "da14b181203b475a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d3a3453108e888e8",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "408a3f5820e588c9",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "0ed820142d79bcc1",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "4a9caadf1b3d4347",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          },
+          {
+            "id": "43f6be947f04306f",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
+            }
+          },
+          {
+            "id": "e735d17688fd2328",
+            "type": "leaf",
+            "state": {
+              "type": "todo",
+              "state": {},
+              "icon": "checkmark",
+              "title": "Todo List"
+            }
+          }
+        ],
+        "currentTab": 5
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "obsidian-git:Open Git source control": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "5f32d4dbcbacb31b",
+  "lastOpenFiles": [
+    "Untitled.md",
+    "TEW AEW Save Ideas.md",
+    "Unsorted/Templates/Literature Note Template.md",
+    "Unsorted/Templates/Permanent Note Template.md",
+    "01 - Fleeting Notes/Analog and Digital Ecosystem.md",
+    "01 - Fleeting Notes/TEW AEW Save Ideas.md",
+    "Chris' Vault II/Chris's Vault/Chris' Vault/Chris's Vault/Chris' Vault/Chris's Vault/Chris' Vault/Chris's Vault/Chris' Vault/Chris's Vault/Chris' Vault/Chris's Vault/Chris' Vault/Chris's Vault/Chris' Vault/Chris's Vault/Chris' Vault/Chris's Vault/Chris' Vault/Chris's Vault/Chris' Vault/Chris's Vault/Chris' Vault/Chris's Vault/Chris' Vault/Unsorted/Attachments",
+    "Chris' Vault II/Chris's Vault/Chris' Vault/Chris's Vault/Chris' Vault/Chris's Vault/Chris' Vault/Chris's Vault/Chris' Vault/Chris's Vault/Chris' Vault/Chris's Vault/Chris' Vault/Chris's Vault/Chris' Vault/Chris's Vault/Chris' Vault/Chris's Vault/Chris' Vault/Chris's Vault/Chris' Vault/Chris's Vault/Chris' Vault/Chris's Vault/Chris' Vault/Chris's Vault/Chris' Vault",
+    "Chris' Vault II/Chris's Vault/Chris' Vault/Chris's Vault/Chris' Vault/Chris's Vault/Chris' Vault/Chris's Vault/Chris' Vault/Chris's Vault/Chris' Vault/Chris's Vault/Chris' Vault/Chris's Vault/Chris' Vault/Chris's Vault/Chris' Vault/Chris's Vault/Chris' Vault/Chris's Vault/Chris' Vault/Chris's Vault/Chris' Vault/Chris's Vault/Chris' Vault/Unsorted/Clippings",
+    "Chris' Vault II/Chris's Vault/Chris' Vault/Chris's Vault/Chris' Vault/Chris's Vault/Chris' Vault/Chris's Vault/Chris' Vault/Chris's Vault/Chris' Vault/Chris's Vault/Chris' Vault/Chris's Vault/Chris' Vault/Chris's Vault/Chris' Vault/Chris's Vault/Chris' Vault/Chris's Vault/Chris' Vault/Chris's Vault/Chris' Vault/Chris's Vault/Chris' Vault/Unsorted/Templates",
+    "Chris' Vault II/Chris's Vault/Chris' Vault/Chris's Vault/Chris' Vault/Chris's Vault/Chris' Vault/Chris's Vault/Chris' Vault/Chris's Vault/Chris' Vault/Chris's Vault/Chris' Vault/Chris's Vault/Chris' Vault/Chris's Vault/Chris' Vault/Chris's Vault/Chris' Vault/Chris's Vault/Chris' Vault/Chris's Vault/Chris' Vault/Chris's Vault/Chris' Vault/04 - Content Creation",
+    "Chris' Vault II/Chris's Vault/Chris' Vault/Chris's Vault/Chris' Vault/Chris's Vault/Chris' Vault/Chris's Vault/Chris' Vault/Chris's Vault/Chris' Vault/Chris's Vault/Chris' Vault/Chris's Vault/Chris' Vault/Chris's Vault/Chris' Vault/Chris's Vault/Chris' Vault/Chris's Vault/Chris' Vault/Chris's Vault/Chris' Vault/Chris's Vault/Chris' Vault/02 - Literature Notes",
+    "Chris' Vault II/Chris's Vault/Chris' Vault/Chris's Vault/Chris' Vault/Chris's Vault/Chris' Vault/Chris's Vault/Chris' Vault/Chris's Vault/Chris' Vault/Chris's Vault/Chris' Vault/Chris's Vault/Chris' Vault/Chris's Vault/Chris' Vault/Chris's Vault/Chris' Vault/Chris's Vault/Chris' Vault/Chris's Vault/Chris' Vault/Chris's Vault/Chris' Vault/03 - Permanent Notes",
+    "Chris' Vault II/Chris's Vault/Chris' Vault/Chris's Vault/Chris' Vault/Chris's Vault/Chris' Vault/Chris's Vault/Chris' Vault/Chris's Vault/Chris' Vault/Chris's Vault/Chris' Vault/Chris's Vault/Chris' Vault/Chris's Vault/Chris' Vault/Chris's Vault/Chris' Vault/Chris's Vault/Chris' Vault/Chris's Vault/Chris' Vault/Chris's Vault/Chris' Vault/01 - Fleeting Notes",
+    "Chris' Vault II/Chris's Vault/Chris' Vault/Chris's Vault/Chris' Vault/Chris's Vault/Chris' Vault/Chris's Vault/Chris' Vault/Chris's Vault/Chris' Vault/Chris's Vault/Chris' Vault/Chris's Vault/Chris' Vault/Chris's Vault/Chris' Vault/Chris's Vault/Chris' Vault/Chris's Vault/Chris' Vault/Chris's Vault/Chris' Vault/Chris's Vault/Chris' Vault/Chris's Vault",
+    "Chris' Vault II/Chris's Vault/Chris' Vault/Chris's Vault/Chris' Vault/Chris's Vault/Chris' Vault/Chris's Vault/Chris' Vault/Chris's Vault/Chris' Vault/Chris's Vault/Chris' Vault/Chris's Vault/Chris' Vault/Chris's Vault/Chris' Vault/Chris's Vault/Chris' Vault/Chris's Vault/Chris' Vault/Chris's Vault/Chris' Vault/Chris's Vault/Chris' Vault/Unsorted",
+    "Chris' Vault II/Unsorted/Templates/Permanent Note Template.md",
+    "Chris' Vault II/Unsorted/Templates/Literature Note Template.md",
+    "Chris' Vault II/02 - Literature Notes/Untitled.md",
+    "Chris' Vault II/01 - Fleeting Notes/2025-02-19.md",
+    "Analog and Digital Ecosystem.md",
+    "02 - Literature Notes/The Triage System.md",
+    "01 - Fleeting Notes/2025-02-19.md",
+    "Chris' Vault/Unsorted/Templates/Permanent Note Template.md",
+    "Chris' Vault/02 - Literature Notes/Untitled.md",
+    "Chris' Vault/Unsorted/Templates/Literature Note Template.md",
+    "Chris' Vault/01 - Fleeting Notes/2025-02-19.md"
+  ]
+}

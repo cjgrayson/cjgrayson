@@ -1,0 +1,202 @@
+{
+  "main": {
+    "id": "9e2a8b3adedc6089",
+    "type": "split",
+    "children": [
+      {
+        "id": "4a1513bd561b13c1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "85de1356a1a20039",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "cjgrayson/2025-02-19.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2025-02-19"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "5788cf730ce2bb7c",
+    "type": "split",
+    "children": [
+      {
+        "id": "562f2affb1e03f35",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f7bc67381944b3a4",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "17918a1fa600882b",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "7908f3958bb954be",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "2d055eb3f55743aa",
+    "type": "split",
+    "children": [
+      {
+        "id": "d71186925a7d4ba8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "85940bc0c8b41016",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "cjgrayson/2025-02-19.md",
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for 2025-02-19"
+            }
+          },
+          {
+            "id": "b13637b7f250e076",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "cjgrayson/2025-02-19.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from 2025-02-19"
+            }
+          },
+          {
+            "id": "39b15a102498bed8",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "99b706f825efa2ef",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "cjgrayson/2025-02-19.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of 2025-02-19"
+            }
+          },
+          {
+            "id": "11fd06fb8f6553ce",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "f7bc67381944b3a4",
+  "lastOpenFiles": [
+    "README.md",
+    "cjgrayson/README.md",
+    "cjgrayson/test note.md",
+    "index.html",
+    "cjgrayson/index.html",
+    "cjgrayson",
+    "Unsorted/Templates/Literature Note Template.md",
+    "Unsorted/Templates/Permanent Note Template.md",
+    "02 - Literature Notes/Untitled.md",
+    "01 - Fleeting Notes/2025-02-19.md",
+    "Unsorted/Clippings",
+    "Unsorted/Attachments",
+    "Unsorted/Templates",
+    "Unsorted",
+    "04 - Content Creation",
+    "02 - Literature Notes/Untitled",
+    "03 - Permanent Notes",
+    "Welcome.md"
+  ]
+}
