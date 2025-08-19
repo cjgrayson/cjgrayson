@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "cjgrayson/README.md",
+                "file": "Chris' Vault/1 - Fleeting Notes/2025-02-19.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "2025-02-19"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "cjgrayson/README.md",
+                "file": "Chris' Vault/1 - Fleeting Notes/2025-02-19.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for README"
+              "title": "Backlinks for 2025-02-19"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "cjgrayson/README.md",
+                "file": "Chris' Vault/1 - Fleeting Notes/2025-02-19.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from README"
+              "title": "Outgoing links from 2025-02-19"
             }
           },
           {
@@ -142,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "cjgrayson/README.md",
+                "file": "Chris' Vault/1 - Fleeting Notes/2025-02-19.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of README"
+              "title": "Outline of 2025-02-19"
             }
           },
           {
@@ -180,9 +180,12 @@
   },
   "active": "85de1356a1a20039",
   "lastOpenFiles": [
+    "Chris' Vault/1 - Fleeting Notes/TEW AEW Save Ideas.md",
+    "Chris' Vault/1 - Fleeting Notes/Analog and Digital Ecosystem.md",
     "Chris' Vault/1 - Fleeting Notes/2025-02-19.md",
-    "cjgrayson/README 1.md",
     "cjgrayson/README.md",
+    "Chris' Vault/1 - Fleeting Notes/2025-02-19 (2).md",
+    "cjgrayson/README 1.md",
     "cjgrayson/test note.md",
     "index.html",
     "cjgrayson/index.html",
