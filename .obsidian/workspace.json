@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Chris' Vault/1 - Fleeting Notes/2025-02-19.md",
+                "file": "cjgrayson/README.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2025-02-19"
+              "title": "README"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Chris' Vault/1 - Fleeting Notes/2025-02-19.md",
+                "file": "cjgrayson/README.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 2025-02-19"
+              "title": "Backlinks for README"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Chris' Vault/1 - Fleeting Notes/2025-02-19.md",
+                "file": "cjgrayson/README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from 2025-02-19"
+              "title": "Outgoing links from README"
             }
           },
           {
@@ -142,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Chris' Vault/1 - Fleeting Notes/2025-02-19.md",
+                "file": "cjgrayson/README.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 2025-02-19"
+              "title": "Outline of README"
             }
           },
           {
@@ -180,8 +180,8 @@
   },
   "active": "85de1356a1a20039",
   "lastOpenFiles": [
-    "cjgrayson/README 1.md",
     "Chris' Vault/1 - Fleeting Notes/2025-02-19.md",
+    "cjgrayson/README 1.md",
     "cjgrayson/README.md",
     "cjgrayson/test note.md",
     "index.html",
